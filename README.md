@@ -38,7 +38,9 @@ GoTap integrates AI and Machine Learning to improve student transportation:
 
 Watch the GoTap project demonstration video:
 
-" Watch GoTap Project Demo" (./Screen%20Recording%202026-11-03%20215914%20(1).mp4)
+## 🎥 Project Demonstration
+
+[▶️ Watch GoTap Project Demo](./Screen%20Recording%202026-11-03%20215914%20%281%29.mp4)
 
  Project Objective
 
